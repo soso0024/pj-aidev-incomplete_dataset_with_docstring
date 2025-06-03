@@ -1,0 +1,16 @@
+.cursor
+
+__pycache__
+
+.pytest_cache
+
+.coverage
+coverage_html
+
+pytest.ini
+
+.env
+
+tests/**
+
+.qodo
