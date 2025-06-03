@@ -1,4 +1,7 @@
-# TestApp
+# Incomplete TestApp
+
+> [!IMPORTANT]
+> This is an incomplete project. It is not yet complete. There are some bugs in debit function that is in model/user.py.
 
 A simple Python application demonstrating a basic financial transactions system. This project shows a clean architecture for user management, authentication, and payment processing.
 
